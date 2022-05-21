@@ -1,9 +1,8 @@
-
-/*ÇäÔÇÁ ŞÇÚÏÉ ÈíÇäÇÊ
+/*Ø§Ù†Ø´Ø§Ø¡ Ù‚Ø§Ø¹Ø¯Ø© Ø¨ÙŠØ§Ù†Ø§Øª
 Repeat the same instruction more than once*/
 CREATE  DATABASE  LAP_1
 
-/*ÇäÔÇÁ ÌÏæá ÈŞÇÚÏÉ ÇáÈíÇäÇÊ
+/*Ø§Ù†Ø´Ø§Ø¡ Ø¬Ø¯ÙˆÙ„ Ø¨Ù‚Ø§Ø¹Ø¯Ø© Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª
 Before creating the table I must specify the required database and 
 select CREATE  TABLE  name_of_table  like that (Name_of_column , data_type)*/
 
@@ -11,15 +10,15 @@ CREATE  TABLE  department
 (department_id   int, department_name  varchar(255),  date_of_work   date)
 
 /* drop the table from database 
-íÍĞİ ÇáÌÏæá ßÇãá ÈãÍÊæíÇÊå
+ÙŠØ­Ø°Ù Ø§Ù„Ø¬Ø¯ÙˆÙ„ ÙƒØ§Ù…Ù„ Ø¨Ù…Ø­ØªÙˆÙŠØ§ØªÙ‡
 */
 DROP TABLE department
 
 /* Delete the record  from table
-íÍĞİ ãÍÊæì ÇáÌÏæá æÇáÇÚãÏÉ áÇ ÊÒÇá ãæÌæÏÉ
+ÙŠØ­Ø°Ù Ù…Ø­ØªÙˆÙ‰ Ø§Ù„Ø¬Ø¯ÙˆÙ„ ÙˆØ§Ù„Ø§Ø¹Ù…Ø¯Ø© Ù„Ø§ ØªØ²Ø§Ù„ Ù…ÙˆØ¬ÙˆØ¯Ø©
 */
 Delete department
 
 /* drop the  database
-ÍĞİ ŞÇÚÏÉ ÇáÈíÇäÇÊ ÈÔßá ßÇãá */
+Ø­Ø°Ù Ù‚Ø§Ø¹Ø¯Ø© Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª Ø¨Ø´ÙƒÙ„ ÙƒØ§Ù…Ù„ */
 DROP DATABASE LAP_1
