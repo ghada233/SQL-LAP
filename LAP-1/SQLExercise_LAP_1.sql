@@ -1,8 +1,8 @@
-/*ÇäÔÇÁ ŞÇÚÏÉ ÈíÇäÇÊ
+/*Ø¥Ù†Ø´Ø§Ø¡ Ù‚Ø§Ø¹Ø¯Ø© Ø¨ÙŠØ§Ù†Ø§Øª 
 Repeat the same instruction more than once*/
 CREATE  DATABASE  Course
 
-/*ÇäÔÇÁ ÌÏæá ÈŞÇÚÏÉ ÇáÈíÇäÇÊ
+/*Ø¥Ù†Ø´Ø§Ø¡ Ø¬Ø¯ÙˆÙ„ ÙÙŠ Ù‚Ø§Ø¹Ø¯Ø© Ø¨ÙŠØ§Ù†Ø§Øª 
 Before creating the table I must specify the required database and 
 select CREATE  TABLE  name_of_table  like that (Name_of_column , data_type)*/
 
@@ -10,7 +10,7 @@ CREATE  TABLE  courses
 (Course_NO  int, Course_Name  varchar(255))
 
 /* drop the table from database 
-íÍĞİ ÇáÌÏæá ßÇãá ÈãÍÊæíÇÊå
+Ø­Ø°Ù Ø¬Ø¯ÙˆÙ„ Ù…Ù† Ù‚Ø§Ø¹Ø¯Ø© Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª
 */
 DROP TABLE courses
 
