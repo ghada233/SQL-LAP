@@ -34,7 +34,6 @@ https://www.youtube.com/watch?v=QsXWszvjMBM&t=1s
 |Delete table table_name               |  يحذف محتوى الجدول والاعمدة لا تزال موجودة    |
 |Alter table table_name Add column_name datatype  |            إضافة عامود جديد بجدول معين |     
 |Alter table table_name Alter column column_name datatype |    تغير نوع بيانات حق عامود معين بجدول معين |                   
-
 |Alter table table_name Drop column column_name |  حذف عامود معين بجدول معين|
 
 >DML
