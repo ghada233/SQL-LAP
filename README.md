@@ -39,7 +39,21 @@ https://www.youtube.com/watch?v=QsXWszvjMBM&t=1s
 
 >DML
 
+
 |                  commanded     | What do? |
+| ------------------------------ |------------------------------|
+|Insert into table_name (column1, …….. ,column n) Values (value1, …. ,value n)|إضافة المعلومات بالصفوف بالترتيب الي احددو وللعواميد الي حددتها مو شرط كلها
+People forget to write value without s|
 
-
+|Insert into table_name Values (value1, ….. ,value n)|إضافة المعلومات بالصفوف بترتيب الجدول
+ابدا ارتب من اول عامود ولازم ادخل معلومات للكل العواميد
+If I omit a value from values list|
+|Insert into table_name (column1, …….. ,column n) Values (value1, ….. ,NULL)|كتابة null |
+|Insert into table_name (column1, …….. ) Values (value1, ….. )|العامود الي ابغا قيمته NULL ما اكتب عنده بشكل صريح. اسيب مكانه فاضي وما اكتب اسم الcoulmun الي ابغا تكون NULL|
+|Declare @varible_name Datatype = value|يعرف متغير ويعطيه قيمة معينة بنوع بيانات معين واكتب اسم المتغير بالجداول بدل ما اكتب القسمة كل مره واتعب نفسي|
+|Declare @varible_name Datatype Set @varible_name  = value|اقدر اقسم الكود على سطرين|
+|Update table_name Set column_name = value Where condition|في عامود معين اعير قيمة صف معين واحدده من خلال الشرط|
+|Update table_name Set column_name = value|طالما الشرط غير موجود حتتغير قيمة كل الصفوف الي لها نفس العامود المحدد|
+|Delete from table_name Where condition|يحذف ملومات الص الي حددناه بشكل كامل|
+|Delete from table_name|يحذف كل الصفوف الي بالجدول|
 
