@@ -21,3 +21,14 @@ https://www.sqlservertutorial.net/install-sql-server/
 
 https://www.youtube.com/watch?v=QsXWszvjMBM&t=1s
 
+## :bulb: Some important command
+
+                              >   DDL
+
+|                  commanded     | What do? |
+| ------------------------------ |------------------------------|
+| Create database database_name  | انشاء قاعدة بيانا           | 
+|Create table table_name         | انشاء جدول بقاعدة البيانات |
+
+
+
