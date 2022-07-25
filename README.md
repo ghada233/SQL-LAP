@@ -29,6 +29,16 @@ https://www.youtube.com/watch?v=QsXWszvjMBM&t=1s
 | ------------------------------ |------------------------------|
 | Create database database_name  | انشاء قاعدة بيانات          | 
 |Create table table_name         | انشاء جدول بقاعدة البيانات |
+|Select * from table_name        |                            |
+|Drop table table_name              |                            |
+|Delete table table_name               |                            |
+|Alter table table_name |                            |
+|Add column_name datatype |                            |
+|Alter table table_name |                            |
+|Alter column column_name datatype |                            |
+|Alter table table_name |                            |
+|Drop column column_name |                            |
+
 
 
 
