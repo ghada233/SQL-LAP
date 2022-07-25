@@ -23,11 +23,11 @@ https://www.youtube.com/watch?v=QsXWszvjMBM&t=1s
 
 ## :bulb: Some important command
 
-                              >   DDL
+>  DDL
 
 |                  commanded     | What do? |
 | ------------------------------ |------------------------------|
-| Create database database_name  | انشاء قاعدة بيانا           | 
+| Create database database_name  | انشاء قاعدة بيانات          | 
 |Create table table_name         | انشاء جدول بقاعدة البيانات |
 
 
