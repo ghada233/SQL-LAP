@@ -29,16 +29,17 @@ https://www.youtube.com/watch?v=QsXWszvjMBM&t=1s
 | ------------------------------ |------------------------------|
 | Create database database_name  | انشاء قاعدة بيانات          | 
 |Create table table_name         | انشاء جدول بقاعدة البيانات |
-|Select * from table_name        |                            |
-|Drop table table_name              |                            |
-|Delete table table_name               |                            |
-|Alter table table_name |                            |
-|Add column_name datatype |                            |
-|Alter table table_name |                            |
-|Alter column column_name datatype |                            |
-|Alter table table_name |                            |
-|Drop column column_name |                            |
+|Select * from table_name        | تطبع محتويات جدول موجود مسبقا    |
+|Drop table table_name              |  يحذف الجدول كامل بمحتوياته    |
+|Delete table table_name               |  يحذف محتوى الجدول والاعمدة لا تزال موجودة    |
+|Alter table table_name Add column_name datatype  |            إضافة عامود جديد بجدول معين |     
+|Alter table table_name Alter column column_name datatype |    تغير نوع بيانات حق عامود معين بجدول معين |                   
 
+|Alter table table_name Drop column column_name |  حذف عامود معين بجدول معين|
+
+>DML
+
+|                  commanded     | What do? |
 
 
 
