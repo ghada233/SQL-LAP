@@ -8,10 +8,11 @@ b. Payment SHOULD NOT exceed 3,000.
 3. Fill up the table with following data:
 
 |C_name  |C_no|  Payment |gender
-|----|-----|-------|-------|
-|Ahmad |532 |3000| Male|
-|Ali| 648 |2500 |Male|
-|Sara |943 |500| Female|
+
+|Ahmad   |532  |  3000   |Male|
+|Ali     | 648 |  2500   |Male|
+|Sara    |943  |  500    |Female|
+
 4. Select all records from Customer table and sort them based on the payment 
 amount.
 5. Delete the customer who has the C_no equal 648 from Customer table
