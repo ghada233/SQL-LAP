@@ -53,5 +53,5 @@ https://www.youtube.com/watch?v=QsXWszvjMBM&t=1s
 |Delete from table_name|يحذف كل الصفوف الي بالجدول|
 
 
-You can contains look all instructions  in this file  
+>You can contains look all instructions  in this file  
 [common error.pdf](https://github.com/ghada233/SQL-LAP/files/9417828/common.error.pdf)
