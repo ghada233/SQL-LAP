@@ -52,17 +52,6 @@ https://www.youtube.com/watch?v=QsXWszvjMBM&t=1s
 |Delete from table_name Where condition|يحذف ملومات الص الي حددناه بشكل كامل|
 |Delete from table_name|يحذف كل الصفوف الي بالجدول|
 
->constraint
 
-|                  commanded     | What do? |
-| ------------------------------ |------------------------------|
-|   Column level:
-Create table table_name(column1 data_type NOT NULL, …., column n)
-
-After table:
-Alter table table_name
-Alter column column_name data_type NOT NULL |               يمنع أي قيمة في عامود معين انها تكون NULL
-NOT NULL
-                |
-|                                |                               |
-|                                |                               |
+You can contains look all instructions  in this file  
+[common error.pdf](https://github.com/ghada233/SQL-LAP/files/9417828/common.error.pdf)
